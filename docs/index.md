@@ -14,7 +14,7 @@ and will learn techniques to collect, analyse and model behavioural data for tac
 <br/><br/>
 
 
-*Course meetings*: Wed 9-12, DTU Building 324, Room H040  
+*Course meetings*: Wed 9-12, DTU Building 324, Room H060  
 *Instructor*: [Laura Alessandretti](https://laura.alessandretti.com)  
 
 
