@@ -98,6 +98,8 @@ description: A course led by Laura Alessandretti on Computational Social Science
 - Consumer behavior and digital footprint
 
 
+&nbsp;
+&nbsp;
 
 # Data for Computational Social Science
 
