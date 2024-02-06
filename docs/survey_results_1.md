@@ -1,6 +1,6 @@
 ---
 layout: page
-title: survey_results_1
+title: survey results Week 1
 tagline: DTU 02467 Computational Social Science Course Spring 2024
 description: A course led by Laura Alessandretti on Computational Social Science
 ---
