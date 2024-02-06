@@ -12,13 +12,13 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 [Admin](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Admin.ipynb). A summary of the tools that we will use in this class. Very important to go through this too!
 
-[Week 1: Intro to Computational Social Science](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week1.ipynb). This week is all about getting started: learning about how the course works, make sure you master the tools you need to follow the class. I will give you an introduction to the field of Computational Social Science. And, we will start with something hands-on: you will learn about web-scraping and start gathering some data from the web.
+[Week 1: Intro to Computational Social Science](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week1.ipynb?flash_cache=True). This week is all about getting started: learning about how the course works, make sure you master the tools you need to follow the class. I will give you an introduction to the field of Computational Social Science. And, we will start with something hands-on: you will learn about web-scraping and start gathering some data from the web.
 
  * __Reading__: [Bit by Bit, chapter 1](https://www.bitbybitbook.com/en/1st-ed/introduction/) Start by reading the Introduction of the book, where you will get you an understanding of the history of the field and the general framework.    
 
  * __Reading__:  [Bit by Bit, chapter 6](https://www.bitbybitbook.com/en/1st-ed/ethics/) Read the Ethics chapter of the book. Here, I don't expect you to read all the details. However, I want to make sure you get an overall understanding of the ethical challenges and some of the approaches that are used in the field to deal with these complex issues. You can focus on sections 6.4 and 6.6.   
  
- [Week 2: Data 1 - Gathering data](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week2.ipynb) This week we will learn more about data sources for Computational Social Science. First you will learn about different data types through some lectures and reading. Then, we will move on to do something practical: you will learn about APIs to collect data and use them to gather data on Computational Social Scientists. 
+ [Week 2: Data 1 - Gathering data](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week2.ipynb?flash_cache=True) This week we will learn more about data sources for Computational Social Science. First you will learn about different data types through some lectures and reading. Then, we will move on to do something practical: you will learn about APIs to collect data and use them to gather data on Computational Social Scientists. 
 
  * __Reading__: [Bit by Bit, sections 2.1 to 2.3](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/observing-intro/) Read sections 2.1 to 2.3. The idea is for you to understand, in general terms, advantages and challenges of large observational datasets (a.k.a. Big Data) for social studies.
  
