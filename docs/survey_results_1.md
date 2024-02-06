@@ -6,7 +6,8 @@ description: A course led by Laura Alessandretti on Computational Social Science
 ---
 
 
-# Topics in Computational Social Science
+# Topics in Computational Social Science 
+24 answers
 
 ### Health/Lifestyle
 - How much physical activity do people do at different stages of their lives
@@ -102,6 +103,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 
 # Data for Computational Social Science
+24 answers
 
 
 ### Social Media Data
@@ -195,6 +197,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 
 # Web Scraping
+18 answers
 
 ![Alt text](/assets/images/web_scraping_results.png)
 
