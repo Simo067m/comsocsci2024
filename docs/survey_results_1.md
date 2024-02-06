@@ -195,6 +195,40 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 <div style="margin-top:100px;"></div>
 
+# Computational Social Science data 
+
+## Research Publications
+- 1. Research papers, scientific articles and journals realted to CSS.    2. Information about CSS researchers, including their affiliations, geographic locations, areas of expertise.   3. Citation data among CSS publications to analyze the network of researchers.   4. Discussions and posts on social media and CSS forums.
+- We would probably beginn by following step three in todays lecture and beginn by Web-scraping the list of participants to the International Conference in Computational Social Science. It looks like we might be able to find all the participants for the conferences that took place from 2015 and until now.    An idea was to search for computational social science books on amazon, but we don't know if that is feasible. Likewise we could search for published aritcles (authors) on this topic.   It might be possible to analyse tweets that mention computational social science.  
+- On ResearchGate there is a category for social science with thounds of question/answers and publications.   Secondly collection publication citation and references from Web of Science or Scopus to understand a relation in research and interaction.
+- Create a database from information available on Google scholar with citations, titles, and authors.
+- 1. Search on google scholar on keywords regarding social science and use meta-data to count amount of articles over time and also make a network of researchers referencing each other / writing articles together
+- Papers on arxiv.org
+- Academic publications and citations datasets. Datasets could be sourced from Google Scholar or PubMed. 
+- Gather information from articles collected from example google scholar og dtu findit (more niche).   Collect datasets based on number of articles within a field of study, and create networks based on the references they make to each other. Dataset based on the data of the authors and researchers and the publications. Dataset based on behaviour and interactions of researchers or people regarding the study online on social media.
+- We believe that metadata from google scholar, DTUFindit, scientific journals etc. could provide an insight into how many articles has been published, which areas within computational social science are most "in" or relevant, who the authors/researchers are, and perhaps the target audience could be relevant. 
+- I would collect author names of research papers as well as "Referenced by" data from these same research papers. Also collect the title and abstracts of the papers.
+- Meta data on publications e.g. academic journals on computational social science.This would include titles, abstracts, authors, keywords etc.   Data could also be retrieved from social media platforms that are inherently scientific, e.g. scientific forum of some kind in threads/posts labelled something in relation to computational social science. 
+- We could collect data about the home department of each researcher published in journals related to computational social science to get an overview of what types of researchers are in the field. We could also collect the abstracts or titles of each article in a published journal to better understand the type of content being produced in the field. We could also do more digging into the background of the prominent researchers in the field if they have their own websites or papers. One way to study interactions would be to analyze the collaborators of the papers we are scraping, so we could collect information about the collaborators and authors of every paper.
+- -- Computational social science journals -- Looking at the abstract of research papers and seeing the collaborators/authors -- Research backgrounds from the university they are performing research at -- Personal websites that researchers have
+- ScienceDirect -> datasets: metadata of publications like title, keywords; author information; citation information; keyowrd analysis
+
+## Network and Collaboration Data
+- One with the different authors, their frequency, contributions, and citations. Another made up of all relevant articles. 
+- Data about who have publicized together. Data about which journals publicize these papers. Data about which papers get cited the most, and by whom.
+
+## Social Media and Online Interactions
+- 1 - A dataset of all prominent Social Science researchers 2 - data of all works published by the researchers 3 - linkedin, twitter / other social media interactions between researchers.
+- I would collect social media data and data from online forums and communities.
+
+## Conference Data
+- We will collect the names and titles of people attending social science conferences and compare their individual work and place of education. Based on the collated documents from arxiv.
+
+## Miscellaneous Data
+- - social media data -government records -data from mobile devices - experiment data 
+
+<div style="margin-top:100px;"></div>
+
 
 # Web Scraping
 18 answers
