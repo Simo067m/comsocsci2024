@@ -188,3 +188,9 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 ### Criminology and Social Issues
 - Prison and conviction records
+
+
+# Web Scraping
+
+![Alt text](/assets/images/web_scraping_results.png)
+
