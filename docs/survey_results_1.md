@@ -198,7 +198,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 # Computational Social Science data 
 20 asnwers
 
-## Research Publications and Collaborations
+### Research Publications and Collaborations
 - 1. Research papers, scientific articles and journals realted to CSS.    2. Information about CSS researchers, including their affiliations, geographic locations, areas of expertise.   3. Citation data among CSS publications to analyze the network of researchers.   4. Discussions and posts on social media and CSS forums.
 - We would probably beginn by following step three in todays lecture and beginn by Web-scraping the list of participants to the International Conference in Computational Social Science. It looks like we might be able to find all the participants for the conferences that took place from 2015 and until now.    An idea was to search for computational social science books on amazon, but we don't know if that is feasible. Likewise we could search for published aritcles (authors) on this topic.   It might be possible to analyse tweets that mention computational social science.  
 - On ResearchGate there is a category for social science with thounds of question/answers and publications.   Secondly collection publication citation and references from Web of Science or Scopus to understand a relation in research and interaction.
@@ -216,14 +216,14 @@ description: A course led by Laura Alessandretti on Computational Social Science
 - One with the different authors, their frequency, contributions, and citations. Another made up of all relevant articles. 
 - Data about who have publicized together. Data about which journals publicize these papers. Data about which papers get cited the most, and by whom.
 
-## Social Media and Online Interactions
+### Social Media and Online Interactions
 - 1 - A dataset of all prominent Social Science researchers 2 - data of all works published by the researchers 3 - linkedin, twitter / other social media interactions between researchers.
 - I would collect social media data and data from online forums and communities.
 
-## Conference Data
+### Conference Data
 - We will collect the names and titles of people attending social science conferences and compare their individual work and place of education. Based on the collated documents from arxiv.
 
-## Miscellaneous Data
+### Miscellaneous Data
 - - social media data -government records -data from mobile devices - experiment data 
 
 <div style="margin-top:100px;"></div>
