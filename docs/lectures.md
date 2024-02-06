@@ -18,7 +18,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
  * __Reading__:  [Bit by Bit, chapter 6](https://www.bitbybitbook.com/en/1st-ed/ethics/) Read the Ethics chapter of the book. Here, I don't expect you to read all the details. However, I want to make sure you get an overall understanding of the ethical challenges and some of the approaches that are used in the field to deal with these complex issues. You can focus on sections 6.4 and 6.6.   
  
- [Week 2: Data 1 - Gathering data] This week we will learn more about data sources for Computational Social Science. First you will learn about different data types through some lectures and reading. Then, we will move on to do something practical: you will learn about APIs to collect data and use them to gather data on Computational Social Science articles. 
+ [Week 2: Data 1 - Gathering data](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week2.ipynb) This week we will learn more about data sources for Computational Social Science. First you will learn about different data types through some lectures and reading. Then, we will move on to do something practical: you will learn about APIs to collect data and use them to gather data on Computational Social Scientists. 
 
  * __Reading__: [Bit by Bit, sections 2.1 to 2.3](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/observing-intro/) Read sections 2.1 to 2.3. The idea is for you to understand, in general terms, advantages and challenges of large observational datasets (a.k.a. Big Data) for social studies.
  
