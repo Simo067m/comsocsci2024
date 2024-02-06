@@ -196,8 +196,9 @@ description: A course led by Laura Alessandretti on Computational Social Science
 <div style="margin-top:100px;"></div>
 
 # Computational Social Science data 
+20 asnwers
 
-## Research Publications
+## Research Publications and Collaborations
 - 1. Research papers, scientific articles and journals realted to CSS.    2. Information about CSS researchers, including their affiliations, geographic locations, areas of expertise.   3. Citation data among CSS publications to analyze the network of researchers.   4. Discussions and posts on social media and CSS forums.
 - We would probably beginn by following step three in todays lecture and beginn by Web-scraping the list of participants to the International Conference in Computational Social Science. It looks like we might be able to find all the participants for the conferences that took place from 2015 and until now.    An idea was to search for computational social science books on amazon, but we don't know if that is feasible. Likewise we could search for published aritcles (authors) on this topic.   It might be possible to analyse tweets that mention computational social science.  
 - On ResearchGate there is a category for social science with thounds of question/answers and publications.   Secondly collection publication citation and references from Web of Science or Scopus to understand a relation in research and interaction.
@@ -212,8 +213,6 @@ description: A course led by Laura Alessandretti on Computational Social Science
 - We could collect data about the home department of each researcher published in journals related to computational social science to get an overview of what types of researchers are in the field. We could also collect the abstracts or titles of each article in a published journal to better understand the type of content being produced in the field. We could also do more digging into the background of the prominent researchers in the field if they have their own websites or papers. One way to study interactions would be to analyze the collaborators of the papers we are scraping, so we could collect information about the collaborators and authors of every paper.
 - -- Computational social science journals -- Looking at the abstract of research papers and seeing the collaborators/authors -- Research backgrounds from the university they are performing research at -- Personal websites that researchers have
 - ScienceDirect -> datasets: metadata of publications like title, keywords; author information; citation information; keyowrd analysis
-
-## Network and Collaboration Data
 - One with the different authors, their frequency, contributions, and citations. Another made up of all relevant articles. 
 - Data about who have publicized together. Data about which journals publicize these papers. Data about which papers get cited the most, and by whom.
 
