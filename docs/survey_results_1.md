@@ -98,7 +98,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 - Consumer behavior and digital footprint
 
 
-<div style="margin-top:20px;"></div>
+<div style="margin-top:100px;"></div>
 
 
 # Data for Computational Social Science
@@ -191,7 +191,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 ### Criminology and Social Issues
 - Prison and conviction records
 
-<div style="margin-top:20px;"></div>
+<div style="margin-top:100px;"></div>
 
 
 # Web Scraping
