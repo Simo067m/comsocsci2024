@@ -22,3 +22,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
  * __Reading__: [Bit by Bit, sections 2.1 to 2.3](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/observing-intro/) Read sections 2.1 to 2.3. The idea is for you to understand, in general terms, advantages and challenges of large observational datasets (a.k.a. Big Data) for social studies.
  
+ [Week 3: Data 2 - Gathering Data Part 2 + Data Viz](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week3.ipynb?flash_cache=True) This week is divided in two parts. First, we will finalize the data collection and generate the final dataset that we will use for the rest of the course. Then, we will talk about how to effectively use _data visualization_ techniques as a tool to analyse empirical data. We will focus on visualizing highly heterogeneous data, with values that spans several orders of magnitude and include many extreme values. 
+
+  * __Reading__: There is no reading this week.   
+ 
