@@ -36,7 +36,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 
 # Other suggestions by me 
- | name | link  | rate limits| |
+|   |  name | link  | rate limits| |
  |:-:|:---------------------------------:|:-----------------------------------------------------:|:----------:|---|
 |   |           Wikipedia API           |         https://en.wikipedia.org/api/rest_v1/         | 5,000/hour |   |
 |   | Youtube Data API                  | https://developers.google.com/youtube/v3/docs         | 10,000/day |   |
