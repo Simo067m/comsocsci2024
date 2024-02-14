@@ -46,38 +46,38 @@ Please follow these instructions carefully to ensure your work is correctly subm
 
 #### Repository Setup
 
-- **Create a Private Repository**: Create a repository on GitHub or GitLab. This will allow us to review the commit history of each group member. Keep the repository private until the assignment deadline.
+- **Create a Private Repository**: Create a repository on GitHub or GitLab. This will allow me to review the commit history of each group member. Keep the repository private until the assignment deadline.
 - **Collaboration**: Work collaboratively on the assignment within your group. It's important that each member is familiar with all exercises.
 - **Jupyter Notebook**: Include a Jupyter notebook in your repository, named `Assignment1.ipynb` or `Assignment2.ipynb`, containing solutions to all exercises.
-- **First Cell Requirements**: The initial cell must contain a link to your GitHub repository and a contribution statement, explaining how you have divided work among members of the group. If you have worked together, but all commits to the repository were made by one (or two) specific member(s) of the group, explain why. 
+- **First Cell Requirements**: The initial cell must contain a link to your GitHub repository and a contribution statement, explaining how you have divided work among members of the group. If you have worked together, but all commits to the Github repository were made by one (or two) specific member(s) of the group, explain why. 
   
 #### Submission Instructions
 
 - **Ensure the code runs**: Make sure that your notebook runs and all outputs are visible. I recommend selecting `Kernel -> Restart and run all cells` before submission.
-- **Verify Output**: Double-check that all outputs are correctly rendered. Remember that you'll be annoyed to get bad evaluations because no-one could see your plots.
+- **Verify Output**: Double-check that all outputs are correctly rendered. You'll be annoyed to get bad evaluations because no-one could see your plots or there were errors in the output.
 - **Upload to DTU Learn**: Submit the Jupyter notebook on DTU Learn.
 - **Make Repository Public**: Change your repository's visibility to public on the submission date.
 
 
-#### Compliance and Formatting
+#### Compliance 
 
-- **Understand the Assignment**: Read questions thoroughly and ensure you understand them before answering.
-- **Complete All Parts**: Address every sub-question to avoid missing out on parts of the assignment.
+- **Understand the Assignment**: Read questions carefully and ensure you understand exactly what I ask before answering.
+- **Complete All Parts**: Make sure you address all sub-questions.  
 - **Follow Instructions**: Follow any additional guidelines (specified in the assignment) regarding answer length, formatting, etc.
 
 #### Notebook Formatting
 
-To facilitate evaluation, please adhere to the following formatting rules:
+You shall follow these formatting rules:
 
 - **Divide Your Answers**: Do not solve all exercises in a single code cell. Organize your code according to the questions.
-- **Question Repetition**: For clarity, repeat the question you're answering above its corresponding answer.
+- **Question Repetition**: For clarity, repeat the question above its corresponding answer.
 - **Conciseness**: Provide clear and concise answers, respecting any word limits set.
 - **Code Documentation and Output formatting**: Include all necessary code and ensure it is well-documented and tidy. Avoid lengthy outputs and ensure there are no errors displayed.
 - **Plot Formatting**: Format your plots properly. Label axes on plots and include explanatory text. 
 - **Use of References**: Cite references appropriately following academic standards.
 - **Objective Language**: Be precise, write in objective language (avoid: "I think ...", "In my opinion...", etc) - if you make an observation, support it with data.
 
-**Note**: Non-compliance with the above instructions could negatively impact your evaluation.
+**Important**: Non-compliance with the above instructions may negatively impact your evaluation (more on that below). 
     
    
 ### Evaluation Criteria
@@ -86,15 +86,15 @@ Your assignment will be assessed based on the following:
 
 - **Individual Assignment Parts**:
     - Completeness (all questions/exercises have been answered/solved)
-    - You have taken appropriate decisions to ensure the integrity/accuracy of your solution you have justified these choices
+    - You have taken appropriate decisions to ensure the integrity/accuracy of your solution you have justified your choices
     - Code is implemented correctly
-    - Your answers to the reflection/open questions demonstrate that you have understood the exercise and the course material. 
+    - Your answers to the reflection and open questions demonstrate that you have understood the exercise and the course material. 
    
 - **Notebook Formatting**:
   - Adherence to the provided formatting guidelines.
   - Quality and clarity of plots and figures.
 
-**Scoring**: Scores range from 0 (insufficient), 1 (sufficient), 2(good) to 3 (excellent), with the possibility of half-point increments (e.g., 0.5, 1.5, 2.5). The overall evaluation is the average of these scores, including both individual parts and notebook formatting. Please note that these scores are intended for feedback purposes and do not directly correlate with the standard Danish grading scale.
+**Scoring**: Scores are assigned on a scale from 0 (insufficient), 1 (sufficient), 2 (good) to 3 (excellent), with the possibility of half-point increments (e.g., 0.5, 1.5, 2.5). The overall evaluation is the average of these scores, including all individual parts and the notebook formatting evaluation. These scores are intended for feedback purposes and do not directly map to a grade in the standard Danish grading scale.
 
 ### <a name="project-assignment"></a>Project Assignment
 
