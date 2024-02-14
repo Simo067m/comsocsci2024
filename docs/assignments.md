@@ -37,12 +37,10 @@ Due: Friday, May 10th, 23:59
 
 
 ### <a name="assignments12"></a>Assignments 1 and 2
-The lectures in this class run over 8 weeks. Each week, we will post a number of exercises. After a set of lectures, I will post an assignment. The assignment is a subset of the exercises. This means that, if you solve the exercises each week, the assignments will be easy.
-
-
-### Formalia regarding Assignments 1 & 2
-
-Please follow these instructions carefully to ensure your work is correctly submitted and assessed:
+The lectures in this class run over 8 weeks. Each week, I will post a number of exercises. After 4 lectures, I will post an assignment. 
+The assignment is a subset of the exercises you have solved in the previous 4 weeks (including the ongoing week). 
+This means that, if you solve the exercises each week, the assignments will be easy.
+Follow carefully the instructions below to ensure your work is correctly submitted and assessed:
 
 #### Repository Setup
 
@@ -80,7 +78,7 @@ You shall follow these formatting rules:
 **Important**: Non-compliance with the above instructions may negatively impact your evaluation (more on that below). 
     
    
-### Evaluation Criteria
+### Evaluation 
 
 Your assignment will be assessed based on the following:
 
