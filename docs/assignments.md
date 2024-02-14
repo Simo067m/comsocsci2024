@@ -12,7 +12,6 @@ description: A course led by Laura Alessandretti on Computational Social Science
              <li><a href="#groups">groups</a></li>
              <li><a href="#assignments12">assignments 1 and 2</a></li>
              <li><a href="#project-assignment">project assignment</a></li>
-             <li><a href="#evaluation">evaluation</a></li>
          </ul>
      </div>
  </div>
@@ -34,6 +33,15 @@ Presentation: Wednesday, Apr 19th (in class)
 
 _Project Assignment B_  
 Due: Friday, May 10th, 23:59  
+
+
+### <a name="groups"></a>Groups
+* Assignments should be handed in in groups.
+* You shall register in a group on DTU Learn. 
+* Groups should have 3 members.
+* You shall work in the same groups throughout the course.
+* All group members should be familiar with every aspect of the assignment. Everyone in the group should be able to solve every exercise.
+* It is possible to have fewer than 3 group members, but we judge all reports the same. 
 
 
 ### <a name="assignments12"></a>Assignments 1 and 2
