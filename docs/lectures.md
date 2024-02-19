@@ -26,3 +26,6 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
   * __Reading__: There is no reading this week.   
  
+ 
+[Week 4: Introduction to Network Science]
+ * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
