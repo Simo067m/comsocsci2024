@@ -61,7 +61,7 @@ Follow carefully the instructions below to ensure your work is correctly submitt
 
 - **Ensure the code runs**: Make sure that your notebook runs and all outputs are visible. I recommend selecting `Kernel -> Restart and run all cells` before submission.
 - **Verify Output**: Double-check that all outputs are correctly rendered. You'll be annoyed to get bad evaluations because no-one could see your plots or there were errors in the output.
-- **Upload to DTU Learn**: Submit the Jupyter notebook on DTU Learn.
+- **Upload the Jupyter Notebook to DTU Learn**: Submit the Jupyter notebook on DTU Learn.
 - **Make Repository Public**: Change your repository's visibility to public on the submission date.
 
 
