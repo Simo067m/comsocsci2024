@@ -36,14 +36,15 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 
 # Other suggestions by me 
- | name | link  | rate limits| |
- |:-:|:---------------------------------:|:-----------------------------------------------------:|:----------:|---|
-|   |           Wikipedia API           |         https://en.wikipedia.org/api/rest_v1/         | 5,000/hour |   |
-|   | Youtube Data API                  | https://developers.google.com/youtube/v3/docs         | 10,000/day |   |
-|   | TMDb API (Movies)                 | https://developer.themoviedb.org/docs/getting-started | 50/seconds |   |
-|   | Github API                        | https://docs.github.com/rest                          | 5,000/hour |   |
-|   | Overpass API (OpenStreetMap data) | https://wiki.openstreetmap.org/wiki/Overpass_API      | 10,000/day |   |
-|   | New York Times API                | https://developer.nytimes.com/apis                    | 500/day    |   |
+
+|                                      |               name               |                               link                               | rate limits |     |
+|:------------------------------------:|:--------------------------------:|:-----------------------------------------------------------------:|:-----------:|-----|
+|                                      |          Wikipedia API           |             https://en.wikipedia.org/api/rest_v1/              |  5,000/hour |     |
+|                                      |         Youtube Data API         |       https://developers.google.com/youtube/v3/docs              | 10,000/day  |     |
+|                                      |         TMDb API (Movies)        | https://developer.themoviedb.org/docs/getting-started           | 50/seconds  |     |
+|                                      |            Github API             |                 https://docs.github.com/rest                    |  5,000/hour |     |
+|                                      | Overpass API (OpenStreetMap data)| https://wiki.openstreetmap.org/wiki/Overpass_API                | 10,000/day  |     |
+|                                      |       New York Times API         | https://developer.nytimes.com/apis                              |   500/day   |     |
  
  
  

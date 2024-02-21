@@ -26,3 +26,6 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
   * __Reading__: There is no reading this week.   
  
+ 
+[Week 4: Introduction to Network Science](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week4.ipynb?flash_cache=True) This week, we get started with Networks. First, we talk about the History of Networks and the basic network formalism and notation. Next, we will create, analyse, and visualize the Network of Computational Social Scientists. 
+ * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
