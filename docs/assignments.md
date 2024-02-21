@@ -20,11 +20,11 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 ### <a name="timeline"></a>Timeline
 
-[Assignment 1](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/assignments/Assignment1.ipynb?flash_cache=True)
+[Assignment 1](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/assignments/Assignment1.ipynb?flash_cache=True).   
 Posted: During Lecture 4  
 Due: Tuesday, Feb 27th, 23:59
 
-Assignment 2
+Assignment 2.   
 Posted: During Lecture 8  
 Due: Tuesday, Apr 2nd, 23:59  
 
