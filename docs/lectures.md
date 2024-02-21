@@ -25,7 +25,8 @@ description: A course led by Laura Alessandretti on Computational Social Science
  [Week 3: Data 2 - Gathering Data Part 2 + Data Viz](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week3.ipynb?flash_cache=True) This week is divided in two parts. First, we will finalize the data collection and generate the final dataset that we will use for the rest of the course. Then, we will talk about how to effectively use _data visualization_ techniques as a tool to analyse empirical data. We will focus on visualizing highly heterogeneous data, with values that spans several orders of magnitude and include many extreme values. 
 
   * __Reading__: There is no reading this week.   
- 
+
  
 [Week 4: Introduction to Network Science](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week4.ipynb?flash_cache=True) This week, we get started with Networks. First, we talk about the History of Networks and the basic network formalism and notation. Next, we will create, analyse, and visualize the Network of Computational Social Scientists. 
  * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
+ * __Assignment__:[Assignment 1](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/assignments/Assignment1.ipynb)
