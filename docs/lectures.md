@@ -30,3 +30,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 [Week 4: Introduction to Network Science](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week4.ipynb?flash_cache=True) This week, we get started with Networks. First, we talk about the History of Networks and the basic network formalism and notation. Next, we will create, analyse, and visualize the Network of Computational Social Scientists. 
  * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
  * __Assignment__: [Assignment 1](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/assignments/Assignment1.ipynb)
+ 
+[Week 5: Networks II - Properties of Real World Networks](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week5.ipynb?flash_cache=True)  More on networks! First some talking by me, where you will learn about heavy tailed distributions and the properties of real-world social networks. Then, you will use the NetworkX library to visualise and investigate the properties of the Computational Social Scientists Network. You will study properties of this network and compare it to a random network model.
+
+ * __Reading__: [Chapter 3 of the Network Science book](http://networksciencebook.com/chapter/3).  The most important sections are 3.1 to 3.4 and 3.8 to 3.10, so focus on that.
