@@ -42,4 +42,5 @@ description: A course led by Laura Alessandretti on Computational Social Science
    
  * __Reading I__: [Chapter 1 (sections 1.1 to 1.3) of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/).
  * __Reading II__: [Chapter 3 (sections 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.9, and 3.10. )  of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/) It's not important that you go in depth with everything here - the key think is that you know that Chapter 3 of this book exists, and that it's a great place to return to if you're ever in need of an explanation of regular expressions, unicode, etc.
+* __Reading III__: Skim through the Wikipedia page on the [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)
 
