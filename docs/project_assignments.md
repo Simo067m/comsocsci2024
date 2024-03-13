@@ -174,3 +174,7 @@ Your project assignment will be assessed based on the following. The evaluation 
 - **Additional Criteria**
     - *Innovation, Creativity and Challenge*: Projects demonstrate originality and/or a challenging aspect in one or more of the following aspects: idea formulation, data collection, network analysis, text analysis, presentation. 
     - *Ethical Considerations*: Address ethical aspects related to data use, privacy, and bias. Projects should include a section discussing these considerations and the measures taken to address them.
+
+
+**Scoring:** Scores are assigned for each criterion on a scale from 0 (insufficient), 1 (sufficient), 2 (good) to 3 (excellent), with the possibility of half-point increments (e.g., 0.5, 1.5, 2.5). The overall evaluation is the average of these scores.
+
