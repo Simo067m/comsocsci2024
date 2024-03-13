@@ -60,7 +60,7 @@ And new ideas for datasets are very welcome. You should work with something that
 
 ### <a name="project-assignmentA"></a> Project Assignment A
 
-For the initial segment of your final project, you shall create a 5-minute presentation. The presentation shall outline the core concept of your project, the datasets involved, and your methodology. You're making the presentation so that I can give you feedback, and you can get ideas from other groups.    
+For the initial part of your final project, you shall create a 5-minute presentation. The presentation shall outline the core concept of your project, the datasets involved, and your methodology. You're making the presentation so that I can give you feedback, and you can get ideas from other groups.    
 
 #### Requirements     
 
@@ -80,17 +80,17 @@ The presentation must contain the following:
   - *Textual Data Examination*: Discuss the textual elements within your dataset and your approach to analyzing this content.
   - *Integrative Analysis*: Explain how you intend to integrate the network and textual data analyses to draw comprehensive insights.
 
-#### Formatting and Submission    
+#### Practicalities
 Here are some details about the format and submission of your presentation. 
 - *Presentation Format*: There are no stringent format requirements for the presentation, but you will be asked to stay within 5 minutes. 
-- *Audience**: The presentation will be delivered to the entire class.
+- *Audience*: The presentation will be delivered to the entire class.
 - *Platform*: Submit your presentation slides on DTU Learn.
-- *Deadline*: Given the extensive data work involved, you will have 2 weeks to prepare and submit your video presentation.
+- *Deadline*: Given the extensive data work involved, you will have 2 weeks to prepare and submit your slides.
 
 
 ### <a name="project-assignmentB"></a> Project Assignment B.
 
-The deliverables for the Final project will be
+The deliverables for the final project will be
 
 __A website__. The website should contain the result of your analysis, it should tell the story about the data that you're interested in getting across. The website should not be technical, but rather aim at using visualization and explanation to get your insights across to a non-scientific reader.
 
@@ -137,7 +137,7 @@ The notebook should contain your analysis and code. Please structure it into the
 
 - *Divide Your Notebook*: Do not make all the anlaysis in a single code cell. Structure your code in different sections. Give a title to each part to make it clear what the section is about. 
 - *Conciseness*: Write clear and concise text.
-- *Code Documentation and Output formatting**: Include all necessary code and ensure it is well-documented and tidy. Avoid lengthy outputs and ensure there are no errors displayed.
+- *Code Documentation and Output formatting*: Include all necessary code and ensure it is well-documented and tidy. Avoid lengthy outputs and ensure there are no errors displayed.
 - *Plot Formatting*: Format your plots properly. Label axes on plots and include explanatory text. 
 - *Use of References*: Cite references appropriately following academic standards.
 - *Objective Language*: Be precise, write in objective language (avoid: "I think ...", "In my opinion...", etc) - if you make an observation, support it with data.
@@ -173,7 +173,7 @@ Your project assignment will be assessed based on the following. The evaluation 
 
 - **Additional Criteria**
     - *Innovation, Creativity and Challenge*: Projects demonstrate originality and/or a challenging aspect in one or more of the following aspects: idea formulation, data collection, network analysis, text analysis, presentation. 
-    - *Ethical Considerations*: Address ethical aspects related to data use, privacy, and bias. Projects should include a section discussing these considerations and the measures taken to address them.
+    - *Ethical Considerations*: Address ethical aspects related to data use, biases, and privacy. Projects include a section discussing these considerations and the measures taken to address them.
 
 
 **Scoring:** Scores are assigned for each criterion on a scale from 0 (insufficient), 1 (sufficient), 2 (good) to 3 (excellent), with the possibility of half-point increments (e.g., 0.5, 1.5, 2.5). The overall evaluation is the average of these scores.
