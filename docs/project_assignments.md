@@ -75,10 +75,9 @@ The presentation must contain the following:
 
 - **Preliminary Data Analysis Overview**
   - *Data Size*: Quantify the total size of your dataset (in megabytes, number of rows, variables, etc.).
-  - *Network Analysis*:
-    - Describe the basic properties of the network you will analyze (e.g., number of nodes, links, degree distributions)? 
+  - *Network Analysis*: Describe the basic properties of the network you will analyze (e.g., number of nodes, links, degree distributions)? 
   - *Textual Data Examination*: Discuss the textual elements within your dataset and your approach to analyzing this content.
-  - *Integrative Analysis*: Explain how you intend to integrate the network and textual data analyses to draw comprehensive insights.
+  - *Text/Network integration*: Explain how you intend to integrate the network and textual data analyses to draw comprehensive insights.
 
 #### Practicalities
 Here are some details about the format and submission of your presentation. 
@@ -148,33 +147,32 @@ The notebook should contain your analysis and code. Please structure it into the
 Your project assignment will be assessed based on the following. The evaluation is based on the assessment of Part A and Part B. 
 
 - **Overall project quality**
-	- *Motivation is clear.* The project's purpose and significance are well explained in the notebook and appropriate. 
+	- *Motivation is clear.* The project's purpose and significance are well explained and sound. 
 	- *Dataset is appropriate.* The chosen dataset(s) are relevant to the project's objectives. 
 
 - **Explainer notebook**
-	- *Data collection and pre-processing.* Choices made during data collection and pre-processing are well presented and sound.
+	- *Data collection and pre-processing.* Choices made during data collection and pre-processing are clearly presented and sound.
 	- *Discussion.* The notebook presents sound reflections on the findings.
 	- *Formatting.* The notebook is well-organized and formatted for readability.
 
 - **Use of network science**
 	- *Appropriate strategies.* Techniques and methods used are suitable for the project's goals.
-	- *Comprehensiveness.* The analysis covers all necessary aspects of the network analysis, providing depth or breadth.
-	- *Correctness.* Analyses are performed appropriately.  Conclusions drawn from the data are valid and supported by the analysis.
+	- *Comprehensiveness.* The analysis covers all necessary aspects of the network analysis.
+	- *Correctness.* Conclusions drawn from the data are valid and supported by the network analysis.
 	
 - **Use of text analysis tools**
-	- *Appropriate strategies.* Employed methods are effectively chosen to meet the project objectives. 
+	- *Appropriate strategies.* Methods are effectively chosen to meet the project objectives. 
 	- *Comprehensiveness.* The project explores all the necessary aspects of the textual component.
-	- *Correctness.* Analyses are performed appropriately.  Conclusions drawn from the data are valid and supported by the analysis.
+	- *Correctness.* Conclusions drawn from the data are valid and supported by the text analysis.
 	
 - **Website Formatting**
     - *Curated visualizations*. Figures are designed according to fundamental principles of visualization to ensure high quality. Figures enhance the project's narrative and provide clear insights.
 	- *Clear explanations.* The website clearly and concisely articulates the project's motivation, data background, findings and discussions.
-    - *Usability*: The website is user-friendly, with a logical structure that facilitates understanding of the project story.
+    - *Usability*: The website is user-friendly, with a logical structure that facilitates understanding of the analysis.
 
 - **Additional Criteria**
-    - *Innovation, Creativity and Challenge*: Projects demonstrate originality and/or a challenging aspect in one or more of the following aspects: idea formulation, data collection, network analysis, text analysis, presentation. 
-    - *Ethical Considerations*: Address ethical aspects related to data use, biases, and privacy. Projects include a section discussing these considerations and the measures taken to address them.
-
+    - *Innovation, Creativity and Challenge*: Projects demonstrate originality and/or present challenges in relation to one or several of the following aspects: idea formulation, data collection, network analysis, text analysis, presentation. 
+    - *Ethical Considerations*: Projects discusses and/or addresses appropriately ethical aspects related to data use, biases, and privacy. 
 
 **Scoring:** Scores are assigned for each criterion on a scale from 0 (insufficient), 1 (sufficient), 2 (good) to 3 (excellent), with the possibility of half-point increments (e.g., 0.5, 1.5, 2.5). The overall evaluation is the average of these scores.
 
