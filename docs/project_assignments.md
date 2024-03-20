@@ -42,8 +42,8 @@ Due: Friday, May 10th, 23:59
 
 
 ### <a name="preparation"></a>Preparation
-* During class 9, 10, 11 and 12 you work independently to prepare Project Assignments A and B
-* During class 9, 10, each group will have a 15 minutes meeting with the teacher, where we discuss your project idea, and you get  feedback
+* During classes 9, 10, 11 and 12, you work independently to prepare Project Assignments A and B
+* During classes 9 and 10, each group will have a 15 minutes meeting with the teacher, where we discuss your project idea, and you get  feedback
 * I will contact each group via DTU Learn to set up the time and location (either in class or via Teams)
 * Participation in the meeting is not mandatory. If you wish to opt out, please let me know in advance. 
 
