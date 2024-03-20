@@ -60,7 +60,7 @@ What we will cover during the meeting:
 | Group 5    | apr 3      | 11:15 - 11:30          | H 060 B324   |
 | Group 10  | apr 3      | 11:30 - 11:45          | H 060 B324  |
 | Group 6    | apr 3      | 11:45 - 12:00          | H 060 B324   |
-| Group 9    | apr 10    | 9:30 - 9:45              | Zoom: [https://dtudk.zoom.us/my/lauale](https://dtudk.zoom.us/my/lauale)  |
-| Group 7    | apr 10    | 9:45 - 10:00            | Zoom: [https://dtudk.zoom.us/my/lauale](https://dtudk.zoom.us/my/lauale) |
-| Group 8    | apr 10    | 10:00 - 10:15          | Zoom: [https://dtudk.zoom.us/my/lauale](https://dtudk.zoom.us/my/lauale)  |
+| Group 9    | apr 10    | 9:30 - 9:45              | Online meeting on Zoom: [https://dtudk.zoom.us/my/lauale](https://dtudk.zoom.us/my/lauale)  |
+| Group 7    | apr 10    | 9:45 - 10:00            | Online meeting on Zoom: [https://dtudk.zoom.us/my/lauale](https://dtudk.zoom.us/my/lauale) |
+| Group 8    | apr 10    | 10:00 - 10:15          | Online meeting on Zoom: [https://dtudk.zoom.us/my/lauale](https://dtudk.zoom.us/my/lauale)  |
 
