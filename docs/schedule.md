@@ -34,11 +34,16 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 ## Meetings with teacher
 
-During weeks 9 and 10, each group has the opportunity to have an individual meeting with the teacher. Participation in the meeting is NOT mandatory. If you can not make it, please just let me know in advance. 
+During weeks 9 and 10, each group has the opportunity to have an individual meeting with the teacher. You can find the schedule of the meetings below. Participation in the meeting is not mandatory. If you can not make it, please just let me know in advance.    
+
 
 What we will cover during the meeting: 
 * Your idea for the Project Assignment (what is your research question? which data do you plan on using? What is the text and the network you will analyse?). If you are still undecided between several ideas, it is perfectly ok at this stage. We can just go through your different ideas and I will give you my suggestions. 
-* Any questions you may have about the Project Assignment and/or the delivery. 
+* Any questions you may have about the Project Assignment and/or the delivery.     
+
+
+
+    
 
 
  
