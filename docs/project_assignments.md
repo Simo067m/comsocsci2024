@@ -10,6 +10,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
          <ul class="nav">
              <li><a href="#timeline">timeline</a></li>
              <li><a href="#groups">groups</a></li>
+	     <li><a href="#preparation">preparation</a></li>
              <li><a href="#project_assignment">overview</a></li>
              <li><a href="#project_assignmentA">project assignment A</a></li>
              <li><a href="#project-assignmentB">project assignment B</a></li>
@@ -39,6 +40,12 @@ Due: Friday, May 10th, 23:59
 * All group members should be familiar with every aspect of the assignment. Everyone in the group should be able to solve every exercise.
 * It is possible to have fewer than 3 group members, but we judge all reports the same. 
 
+
+### <a name="preparation"></a>Preparation
+* During class 9, 10, 11 and 12 you work independently to prepare Project Assignments A and B
+* During class 9, 10, each group will have a 15 minutes meeting with the teacher, where we discuss your project idea, and you get  feedback
+* I will contact each group via DTU Learn to set up the time and location (either in class or via Teams)
+* Participation in the meeting is not mandatory. If you wish to opt out, please let me know in advance. 
 
 ### <a name="project-assignment"></a>Project Assignment Overview
 

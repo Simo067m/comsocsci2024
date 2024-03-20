@@ -22,8 +22,8 @@ description: A course led by Laura Alessandretti on Computational Social Science
 | mar 20      | Lecture 8                   |                     | Mar           |      Wed       |
 | mar 27      | Easter Break               | Easter Break              | Mar           |      Wed       |
 | apr 2      | Assignment 2              | Assignment Due                    | Mar           |      Tue       |
-| apr 3       | Project Assignment A        |Independent Preparation Work| Mar           |      Wed       |
-| apr 10      | Project Assignment A        |Independent Preparation Work| Apr           |      Wed       |
+| apr 3       | Project Assignment A        |Independent Preparation/Meeting with Teacher | Mar           |      Wed       |
+| apr 10      | Project Assignment A        |Independent Preparation/ Meeting with Teacher| Apr           |      Wed       |
 | apr 16      | Project Assignment A        | Assignment Due                    | Apr           |      Tue       |
 | apr 17      | Lecture 9                   | Presentations              | Apr           |      Wed       |
 | apr 24      | Project Assignment B        |Independent Preparation Work| Apr           |      Wed       |
