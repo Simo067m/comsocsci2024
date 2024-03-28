@@ -29,4 +29,5 @@ and will learn techniques to collect, analyse and model behavioural data for tac
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
+- [project assignment](project_assignments.html)
 - [books](books.html)

@@ -37,4 +37,13 @@ description: A course led by Laura Alessandretti on Computational Social Science
  
  [Week 6: Networks III - Centrality and Communities](https://nbviewer.org/github/lalessan/comsocsci2024/blob/main/lectures/Week6.ipynb?flash_cache=True) Today we will study the network of Computational Social Scientists more in depth. We will learn about more advanced network science concepts (centrality, assortativity, communities), then put things into practice to study the network of Computational Social Scientists.
  * __Reading__: [Chapter 7 of the Network Science book](http://networksciencebook.com/chapter/7)(the most important sections are 7.1 to 7.3); [Chapter 9 of the Network Science book](http://networksciencebook.com/chapter/9) (you can skip 9.3, 9.5 and 9.7).
+ 
+  [Week 7: Text 1 - The Basics ](https://nbviewer.jupyter.org/github/lalessan/comsocsci2024/blob/main/lectures/Week7.ipynb?flash_cache=True). We're changing gears. We've looked at the network of Computational Social Scientists. Now we'll put together the tools for working with the text. We will learn the basics, then  get real and work with the text from the papers' abstracts. 
+  
+ * __Reading I__: [Chapter 1 (sections 1.1 to 1.3) of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/).
+ * __Reading II__: [Chapter 3 (sections 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.9, and 3.10. )  of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/) It's not important that you go in depth with everything here - the key think is that you know that Chapter 3 of this book exists, and that it's a great place to return to if you're ever in need of an explanation of regular expressions, unicode, etc.
+* __Reading III__: Skim through the Wikipedia page on the [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)
+
+[Week 8: Text 2 - Networks and Text ](https://nbviewer.jupyter.org/github/lalessan/comsocsci2024/blob/main/lectures/Week8.ipynb?flash_cache=True). Today we will talk a bit more about basic techinques to explore textual data and will apply to study the abstract dataset. It is a pretty light class, so you have time to focus on the assignment. 
+
 
